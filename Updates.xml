@@ -1,0 +1,22 @@
+<Updates>
+ <ApplicationName>{AnyApplication}</ApplicationName>
+ <ApplicationVersion>1.0.0</ApplicationVersion>
+ <Checksum>true</Checksum>
+ <PackageUpdate>
+  <Name>com.GTG.GTG_App</Name>
+  <DisplayName>GTG-Base</DisplayName>
+  <Description>Contains the neccessary base software of the App.</Description>
+  <Version>0.1.0</Version>
+  <ReleaseDate>2021-05-31</ReleaseDate>
+  <Default>true</Default>
+  <Script>installscript.qs</Script>
+  <UpdateFile OS="Any" CompressedSize="26593934" UncompressedSize="120768714"/>
+  <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,qmltooling.7z,Qt.7z,QtGraphicalEffects.7z,QtMultimedia.7z,QtQml.7z,QtQuick.7z,QtQuick.2.7z,QtTest.7z,QtWinExtras.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
+  <Licenses>
+   <License name="Non-Existent-License" file="license.txt"/>
+  </Licenses>
+  <SHA1>2b8b4c425b71ca74d32b078e1eda20124349c89f</SHA1>
+ </PackageUpdate>
+ <SHA1>2b8b4c425b71ca74d32b078e1eda20124349c89f</SHA1>
+ <MetadataName>2021-05-31-1943_meta.7z</MetadataName>
+</Updates>
