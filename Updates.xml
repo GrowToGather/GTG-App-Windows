@@ -8,7 +8,7 @@
   <Name>com.GTG.GTG_App</Name>
   <DisplayName>GTG-Base</DisplayName>
   <Description>Contains the neccessary base software of the App.</Description>
-  <Version>0.1.2</Version>
+  <Version>0.1.3</Version>
   <ReleaseDate>2021-06-13</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
