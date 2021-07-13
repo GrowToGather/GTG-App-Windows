@@ -2,21 +2,21 @@
  <ApplicationName>{AnyApplication}</ApplicationName>
  <ApplicationVersion>1.0.0</ApplicationVersion>
  <Checksum>true</Checksum>
- <SHA1>ce572f537137b83b00aef0afbabd538ef9664099</SHA1>
- <MetadataName>2021-06-09-2209_meta.7z</MetadataName>
+ <SHA1>5c392f8d173b2c4f35c537267f24928fe21f22d6</SHA1>
+ <MetadataName>2021-07-13-2119_meta.7z</MetadataName>
  <PackageUpdate>
   <Name>com.GTG.GTG_App</Name>
   <DisplayName>GTG-Base</DisplayName>
   <Description>Contains the neccessary base software of the App.</Description>
   <Version>0.1.4</Version>
-  <ReleaseDate>2021-06-13</ReleaseDate>
+  <ReleaseDate>2021-07-13</ReleaseDate>
   <Default>true</Default>
   <Script>installscript.qs</Script>
-  <UpdateFile UncompressedSize="120837834" OS="Any" CompressedSize="26608738"/>
+  <UpdateFile CompressedSize="26636280" UncompressedSize="120913610" OS="Any"/>
   <DownloadableArchives>audio.7z,bearer.7z,iconengines.7z,imageformats.7z,mediaservice.7z,platforms.7z,playlistformats.7z,qmltooling.7z,Qt.7z,QtGraphicalEffects.7z,QtMultimedia.7z,QtQml.7z,QtQuick.7z,QtQuick.2.7z,QtTest.7z,QtWinExtras.7z,styles.7z,translations.7z,content.7z</DownloadableArchives>
   <Licenses>
    <License name="Non-Existent-License" file="license.txt"/>
   </Licenses>
-  <SHA1>ce572f537137b83b00aef0afbabd538ef9664099</SHA1>
+  <SHA1>5c392f8d173b2c4f35c537267f24928fe21f22d6</SHA1>
  </PackageUpdate>
 </Updates>
